@@ -4,5 +4,5 @@ function isLannisterSoldier(color, lion) {
 
 }
 
-console.log(isLannisterSoldier("red", "lion")); // true - чужой
-console.log(isLannisterSoldier("blue", null)); // false - свой
+console.log(isLannisterSoldier("red", "lion")); // true - чужой - Ланистер
+console.log(isLannisterSoldier("blue", null)); // false - свой - союзник
